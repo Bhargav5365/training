@@ -10,3 +10,8 @@ video calls
 payment option 
 send money
 receive money
+
+
+camera option
+sounds option
+conacts option
